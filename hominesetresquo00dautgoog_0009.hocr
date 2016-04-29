@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./hominesetresquo00dautgoog_0009.png"; bbox 0 0 4209 6184; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 415 2668 1637 3036">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 415 2668 1637 3036">
+     <span class='ocr_line' id='line_1_1' title="bbox 415 2668 1637 2749; baseline -0.005 -9"><span class='ocrx_word' id='word_1_1' title='bbox 415 2671 606 2740; x_wconf 84' lang='lat' dir='ltr'>HOMINES</span> <span class='ocrx_word' id='word_1_2' title='bbox 631 2671 681 2736; x_wconf 84' lang='grc' dir='ltr'>ΕΤ</span> <span class='ocrx_word' id='word_1_3' title='bbox 702 2670 781 2737; x_wconf 84' lang='lat' dir='ltr'>RES</span> <span class='ocrx_word' id='word_1_4' title='bbox 807 2669 891 2749; x_wconf 79' lang='lat' dir='ltr'>QUO</span> <span class='ocrx_word' id='word_1_5' title='bbox 917 2669 1070 2736; x_wconf 87' lang='lat' dir='ltr'><strong>STUDIO</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1095 2669 1424 2737; x_wconf 82' lang='lat' dir='ltr'>OBSERVAVERIT</span> <span class='ocrx_word' id='word_1_7' title='bbox 1447 2668 1496 2734; x_wconf 86' lang='lat' dir='ltr'>ET</span> <span class='ocrx_word' id='word_1_8' title='bbox 1515 2668 1637 2748; x_wconf 82' lang='lat' dir='ltr'><strong>QUAM</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 480 2812 1637 2884; baseline -0.004 0"><span class='ocrx_word' id='word_1_9' title='bbox 480 2815 660 2884; x_wconf 82' lang='lat' dir='ltr'>SINCERE</span> <span class='ocrx_word' id='word_1_10' title='bbox 686 2813 988 2881; x_wconf 75' lang='lat' dir='ltr'>DESCfflPsERlT</span> <span class='ocrx_word' id='word_1_11' title='bbox 1012 2813 1187 2880; x_wconf 88' lang='lat' dir='ltr'>OVlDlUS</span> <span class='ocrx_word' id='word_1_12' title='bbox 1207 2813 1261 2879; x_wconf 84' lang='lat' dir='ltr'>EX</span> <span class='ocrx_word' id='word_1_13' title='bbox 1277 2812 1515 2880; x_wconf 83' lang='lat' dir='ltr'>AMATORHS</span> <span class='ocrx_word' id='word_1_14' title='bbox 1537 2813 1637 2880; x_wconf 78' lang='lat' dir='ltr'>EJUS</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 478 2955 1027 3036; baseline -0.015 -8"><span class='ocrx_word' id='word_1_15' title='bbox 478 2955 744 3028; x_wconf 76' lang='lat' dir='ltr'><strong>CARMINIBUS</strong></span> <span class='ocrx_word' id='word_1_16' title='bbox 769 2956 1027 3036; x_wconf 84' lang='lat' dir='ltr'><strong>QUAERITUR.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 2110 6180">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 2110 6180">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 2110 6180; baseline 0 0"><span class='ocrx_word' id='word_1_17' title='bbox 0 0 2110 6180; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
